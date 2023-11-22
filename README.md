@@ -47,7 +47,7 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
 
 2. **Clonar el Repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/nombre-repositorio.git
+   https://github.com/CarlosUriass/AyLC-practicas.git
    cd nombre-repositorio
 
 ## Ejecutar Prácticas
