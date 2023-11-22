@@ -55,7 +55,7 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
 Cada práctica se encuentra en un archivo Python independiente. Ejecuta el script de la práctica deseada utilizando el siguiente comando:
 
 ```bash
-python practica1.py
+python nombre_del_archivo.py
 ```
 
 ## Contribuciones
