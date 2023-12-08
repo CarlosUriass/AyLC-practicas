@@ -67,7 +67,9 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   - Descripción: [Define un arreglo con una longitud ingresada por el usuario, luego se pregunta si se desea buscar alguna ciudad dentro del arreglo, realiza la busqueda y nos devuelve la posición del arreglo donde fue encontrada. ]
 
 
-...
+  **Práctica 15:** [Manipulación de CURP con arreglos]
+  - Archivo: `15_curp.py`
+  - Descripción: Este script en Python utiliza la biblioteca NumPy para manipular la Clave Única de Registro de Población (CURP). Inicia solicitando al usuario ingresar su CURP, luego utiliza NumPy para almacenar cada letra de la CURP en un array. Finalmente, muestra la fecha de nacimiento obtenida a partir de las posiciones específicas del array.
 
 ## Guía de Uso
 
