@@ -2,6 +2,19 @@
 
 Este repositorio contiene las traducciones de las prácticas de la materia "Algoritmos y Lógica Computacional" de la M.I.A Rocio Becerra. Las traducciones se han realizado desde pseudocódigo a lenguaje Python.
 
+# Aviso Importante: Culminación del Semestre
+
+🎉 ¡Felicidades por llegar al final del semestre! 🎉
+
+Este repositorio contiene todas las prácticas realizadas durante el semestre en la materia "Algoritmos y Lógica Computacional". Si has completado las prácticas, ¡excelente trabajo! Esperamos que hayas encontrado útiles estos ejercicios para mejorar tus habilidades en programación.
+
+Si necesitas repasar alguna práctica o quieres explorar más, puedes revisar los archivos correspondientes en este repositorio. Además, si tienes preguntas o comentarios, no dudes en ponerte en contacto.
+
+¡Que tengas un merecido descanso y mucho éxito en tus futuros proyectos!
+
+**Nota:**
+Este repositorio está ahora completo, pero si hay actualizaciones futuras o nuevas prácticas, estate atento a posibles anuncios o comunicados.
+
 ## Contenido
 
 - **Práctica 1:** [Calcular area del circulo ]
@@ -56,12 +69,15 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   - Archivo: `13_arrays.ipynb`
   - Descripción: [Este script en Python realiza operaciones básicas con arreglos. Inicia solicitando al usuario ingresar elementos para un arreglo, realiza operaciones como la suma y el producto de los elementos, y muestra los resultados.]
 
-  ⚠️ **Nota Importante a partir de la Práctica 13:**
-  Para ejecutar las prácticas a partir de la Práctica 13, es necesario tener instalada la biblioteca NumPy. Puedes instalar NumPy utilizando el siguiente comando:
+⚠️ **Nota Importante a partir de la Práctica 13:**
+  A partir de la Práctica 13, las implementaciones utilizan la biblioteca NumPy para realizar operaciones con arreglos y matrices. Si no tienes NumPy instalado en tu entorno local, puedes instalarlo utilizando el siguiente comando:
 
   ```bash
   pip install numpy
   ```
+
+  En caso de preferir no instalar NumPy en el entorno local, se proporcionan implementaciones en Jupyter Notebooks que ya incluyen las dependencias necesarias. Puedes ejecutar estos cuadernos directamente para interactuar con las prácticas sin instalar NumPy de manera independiente.
+
 **Práctica 14:** [Ciudades]
   - Archivo: `14_ciudades.ipynb`
   - Descripción: [Define un arreglo con una longitud ingresada por el usuario, luego se pregunta si se desea buscar alguna ciudad dentro del arreglo, realiza la busqueda y nos devuelve la posición del arreglo donde fue encontrada. ]
@@ -80,8 +96,6 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   **Práctica 17:** [Generación de Matriz con Números Aleatorios (NumPy)]
   - Archivo: `17_matriz_numeroAleatorio.ipynb`
   - Descripción: Este cuaderno de Jupyter en Python utiliza la biblioteca NumPy para generar una matriz de tamaño 5x5 con números aleatorios entre 1 y 100. El usuario tiene la capacidad de buscar la ocurrencia de un número específico dentro de la matriz y visualizar las posiciones donde se encuentra. El cuaderno proporciona una experiencia interactiva, permitiendo al usuario realizar múltiples búsquedas antes de finalizar.
-
-
  
 
 ## Guía de Uso
