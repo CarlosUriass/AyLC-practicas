@@ -40,9 +40,14 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   - Archivo: `09_promedios(for).py`
   - Descripción: [Utiliza ciclos for como una variante del calculo de los promedios, lo que hace mas dinamico la interacción.]
 
-    **Práctica 10:** [Piedra, papel o tijera]
+  **Práctica 10:** [Piedra, papel o tijera]
   - Archivo: `10_piedra-papel-tijera.py`
   - Descripción: [Juego piedra papel tijera]
+
+  **Práctica 11:** [Generar tablas de multiplicar]
+  - Archivo: 11_generar_tablas.py
+  - Descripción: Este script en Python permite al usuario generar y visualizar tablas de multiplicar. [Inicia solicitando al usuario que ingrese un número entre 2 y 9. Luego, utiliza un bucle while para asegurarse de que el número esté dentro del rango especificado. Una vez que se ha ingresado un número válido, el script utiliza un bucle for para imprimir la tabla de multiplicar correspondiente al número ingresado, multiplicando por cada valor del 1 al 10.]
+
 
 
 
