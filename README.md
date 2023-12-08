@@ -40,14 +40,17 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   - Archivo: `09_promedios(for).py`
   - Descripción: [Utiliza ciclos for como una variante del calculo de los promedios, lo que hace mas dinamico la interacción.]
 
-  **Práctica 10:** [Piedra, papel o tijera]
-  - Archivo: `10_piedra-papel-tijera.py`
-  - Descripción: [Juego piedra papel tijera]
+  **Práctica 10:** [Calculadora (while)]
+  - Archivo: `10_calculadora_while.py`
+  - Descripción: [Este script en Python implementa una calculadora interactiva que permite al usuario realizar operaciones aritméticas básicas (suma, resta, multiplicación y división) entre dos números. El programa utiliza un bucle while para mantenerse en ejecución mientras el usuario desee realizar operaciones adicionales. Solicita al usuario ingresar dos números y seleccionar la operación deseada. Luego, realiza la operación y muestra el resultado. Si el usuario intenta dividir entre cero, le pide que ingrese un divisor diferente de cero. Después de cada operación, pregunta al usuario si desea realizar otra operación. El bucle continúa hasta que el usuario elige no realizar más operaciones, momento en el cual el programa se detiene.]
 
   **Práctica 11:** [Generar tablas de multiplicar]
   - Archivo: 11_generar_tablas.py
   - Descripción: Este script en Python permite al usuario generar y visualizar tablas de multiplicar. [Inicia solicitando al usuario que ingrese un número entre 2 y 9. Luego, utiliza un bucle while para asegurarse de que el número esté dentro del rango especificado. Una vez que se ha ingresado un número válido, el script utiliza un bucle for para imprimir la tabla de multiplicar correspondiente al número ingresado, multiplicando por cada valor del 1 al 10.]
 
+  **Práctica 12:** [Piedra, papel o tijera]
+  - Archivo: `10_piedra-papel-tijera.py`
+  - Descripción: [Juego piedra papel tijera]
 
 
 
