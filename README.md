@@ -53,7 +53,7 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   - Descripción: [Juego piedra papel tijera]
 
   **Práctica 13:** [Operaciones con Arreglos]
-  - Archivo: `13_arrays.py`
+  - Archivo: `13_arrays.ipynb`
   - Descripción: [Este script en Python realiza operaciones básicas con arreglos. Inicia solicitando al usuario ingresar elementos para un arreglo, realiza operaciones como la suma y el producto de los elementos, y muestra los resultados.]
 
   ⚠️ **Nota Importante a partir de la Práctica 13:**
@@ -63,13 +63,19 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   pip install numpy
   ```
 **Práctica 14:** [Ciudades]
-  - Archivo: `14_ciudades.py`
+  - Archivo: `14_ciudades.ipynb`
   - Descripción: [Define un arreglo con una longitud ingresada por el usuario, luego se pregunta si se desea buscar alguna ciudad dentro del arreglo, realiza la busqueda y nos devuelve la posición del arreglo donde fue encontrada. ]
 
 
   **Práctica 15:** [Manipulación de CURP con arreglos]
-  - Archivo: `15_curp.py`
+  - Archivo: `15_curp.ipynb`
   - Descripción: Este script en Python utiliza la biblioteca NumPy para manipular la Clave Única de Registro de Población (CURP). Inicia solicitando al usuario ingresar su CURP, luego utiliza NumPy para almacenar cada letra de la CURP en un array. Finalmente, muestra la fecha de nacimiento obtenida a partir de las posiciones específicas del array.
+
+  **Práctica 16:** [Operaciones con Matrices (NumPy)]
+  - Archivo: `16_matrices.ipynb`
+  - Descripción: Este script en Python utiliza la biblioteca NumPy para realizar operaciones básicas con matrices. Comienza solicitando al usuario el número de filas y columnas para crear una matriz. Luego, llena la matriz con datos ingresados por el usuario. El script utiliza NumPy para calcular las sumas de cada fila y columna de la matriz. 
+
+ 
 
 ## Guía de Uso
 
