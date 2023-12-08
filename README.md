@@ -37,8 +37,12 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   - Descripción: [Imprime las tablas del 5 al 9 (no se pueden crear ciclos para cada tabla)]
 
   **Práctica 9:** [Algoritmos de calculo de promedios con ciclos for]
-  - Archivo: `07_for.py`
+  - Archivo: `09_promedios(for).py`
   - Descripción: [Utiliza ciclos for como una variante del calculo de los promedios, lo que hace mas dinamico la interacción.]
+
+    **Práctica 10:** [Piedra, papel o tijera]
+  - Archivo: `10_piedra-papel-tijera.py`
+  - Descripción: [Juego piedra papel tijera]
 
 
 
