@@ -52,6 +52,16 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   - Archivo: `10_piedra-papel-tijera.py`
   - Descripción: [Juego piedra papel tijera]
 
+  **Práctica 13:** [Operaciones con Arreglos]
+  - Archivo: `13_arrays.py`
+  - Descripción: [Este script en Python realiza operaciones básicas con arreglos. Inicia solicitando al usuario ingresar elementos para un arreglo, realiza operaciones como la suma y el producto de los elementos, y muestra los resultados.]
+
+  ⚠️ **Nota Importante a partir de la Práctica 13:**
+  Para ejecutar las prácticas a partir de la Práctica 13, es necesario tener instalada la biblioteca NumPy. Puedes instalar NumPy utilizando el siguiente comando:
+
+  ```bash
+  pip install numpy
+  ```
 
 
 ...
