@@ -62,6 +62,9 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   ```bash
   pip install numpy
   ```
+**Práctica 14:** [Ciudades]
+  - Archivo: `14_ciudades.py`
+  - Descripción: [Define un arreglo con una longitud ingresada por el usuario, luego se pregunta si se desea buscar alguna ciudad dentro del arreglo, realiza la busqueda y nos devuelve la posición del arreglo donde fue encontrada. ]
 
 
 ...
