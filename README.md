@@ -75,6 +75,13 @@ Este repositorio contiene las traducciones de las prácticas de la materia "Algo
   - Archivo: `16_matrices.ipynb`
   - Descripción: Este script en Python utiliza la biblioteca NumPy para realizar operaciones básicas con matrices. Comienza solicitando al usuario el número de filas y columnas para crear una matriz. Luego, llena la matriz con datos ingresados por el usuario. El script utiliza NumPy para calcular las sumas de cada fila y columna de la matriz. 
 
+  
+
+  **Práctica 17:** [Generación de Matriz con Números Aleatorios (NumPy)]
+  - Archivo: `17_matriz_numeroAleatorio.ipynb`
+  - Descripción: Este cuaderno de Jupyter en Python utiliza la biblioteca NumPy para generar una matriz de tamaño 5x5 con números aleatorios entre 1 y 100. El usuario tiene la capacidad de buscar la ocurrencia de un número específico dentro de la matriz y visualizar las posiciones donde se encuentra. El cuaderno proporciona una experiencia interactiva, permitiendo al usuario realizar múltiples búsquedas antes de finalizar.
+
+
  
 
 ## Guía de Uso
